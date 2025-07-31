@@ -1,1 +1,1 @@
-# sourcehubit_handwritten-charector-recognition
+# sourcehubit_handwritten-character-recognition
